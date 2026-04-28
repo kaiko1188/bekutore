@@ -444,7 +444,7 @@ export default function App() {
 
               <div className="mt-7 flex flex-wrap gap-3">
                 <a
-                  href="https://www.instagram.com/natural_body_/"
+                  href="https://www.instagram.com/natural_body_s?igsh=MWxsMzhvZ2JyeG50bw=="
                   target="_blank"
                   rel="noreferrer"
                   className="rounded-xl bg-white text-slate-900 px-5 py-3 font-semibold hover:bg-white/90 transition"
@@ -455,7 +455,7 @@ export default function App() {
                   href="#top"
                   className="rounded-xl bg-white/10 border border-white/25 px-5 py-3 font-semibold hover:bg-white/15 transition"
                 >
-                  トップに戻
+                  トップに戻る
                 </a>
               </div>
 
